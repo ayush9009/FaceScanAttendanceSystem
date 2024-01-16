@@ -1,2 +1,2 @@
 # FaceScanAttendanceSystem
-An Innovative Attendance System using OpenCV’s face recognition technology.  
+An Innovative Attendance System using OpenCV’s face recogniton technology.  
